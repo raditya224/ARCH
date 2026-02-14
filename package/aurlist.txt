@@ -1,0 +1,12 @@
+grimblast-git
+hyprshade
+python-imageio-ffmpeg
+python-pywalfox
+python-screeninfo
+tty-clock
+tty-clock-debug
+waypaper
+wlogout
+wlogout-debug
+yay-bin
+yay-bin-debug
